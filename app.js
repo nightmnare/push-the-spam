@@ -26,8 +26,8 @@ const main = async () => {
 
 
     
-    // 4000 = 4 seconds
-  }, 4000);
+    // 40000 = 40 seconds
+  }, 40000);
 };
 
 main();
